@@ -8,6 +8,14 @@
             "zone_id": "ALVA",
             "wheelchair_boarding": "1"
         },
+         {
+            "stop_id": "KLT",
+            "stop_name": "Kulutalai",
+            "stop_lat": "10.0793",
+            "stop_lon": "76.3389",
+            "zone_id": "KLT",
+            "wheelchair_boarding": "1"
+        },
         {
             "stop_id": "PNCU",
             "stop_name": "Pulinchudu",
